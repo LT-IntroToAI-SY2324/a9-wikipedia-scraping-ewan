@@ -73,6 +73,8 @@ Notice the 2 incomplete patterns (marked by `"REPLACE ME"`) on lines `22` and `3
 
 Let's walk through an example of that. Going back to our Grace Hopper example from before (and using the helper functions defined in `utilties.py`):
 
+This assignment I found dificult. I used help from git hub of my classmates in order to understand what to do.
+
 ```python
 >>> from utilities import *
 >>> infobox_text = get_first_infobox_text(get_page_html("Grace Hopper"))
